@@ -1,0 +1,17 @@
+.login {
+    width: 100vw;
+    background: rgba(216, 149, 160, 0.363);
+    text-align: center;
+    color: aliceblue;
+}
+.login-header {
+    background: rgba(89, 89, 155, 0.747);
+    font-size: 35px;
+    line-height: 100px;
+
+}
+  .ant-form {
+      width: 300px;
+      height: 600px;
+      margin: 50px auto 0 !important;
+  }
